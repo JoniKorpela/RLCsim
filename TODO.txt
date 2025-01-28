@@ -1,0 +1,15 @@
+
+Look and Feel
+  -> Asettelu
+
+ExitDialogWindow.getBackground = javax.swing.plaf.ColorUIResource[r=214,g=217,b=223]
+
+
+Component panelin asettelu
+
+
+
+
+
+
+
